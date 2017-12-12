@@ -1,5 +1,5 @@
-update procedure:
-step-1.git add <file or .>
+update/delete procedure:
+step-1.git add/rm <file or .>
 step-2.git commit -m "<comments>"
 step-3.git push origin master
 
