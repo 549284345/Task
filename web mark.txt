@@ -5,3 +5,6 @@ http://www.jianshu.com/p/9cd79d2fb463
 CNN:
 http://blog.csdn.net/hjimce/article/details/47323463
 http://blog.csdn.net/yunpiao123456/article/details/52437794
+
+MNIST
+https://www.zhihu.com/question/29238666
